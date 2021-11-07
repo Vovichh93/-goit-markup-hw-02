@@ -167,6 +167,7 @@ body {
   background: #2f303a;
 }
 .contacts-address {
+  font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
@@ -174,6 +175,7 @@ body {
   color: var(--address-color);
 }
 .contacts-mail {
+  font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
@@ -181,11 +183,12 @@ body {
   color: var(--second-address-color);
 }
 .contacts-tel {
+  font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
-  color: var(--second-address-color);
+  color: var(--);
 }
 
 /* --------------PORTFOLIO --------------*/
