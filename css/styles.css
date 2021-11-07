@@ -6,7 +6,7 @@
   --first-logo-color: #2196f3;
   --second-logo-color: #000000;
   --address-color: #ffffff;
-  --second-address-color: #rgba(255, 255, 255, 0.6);
+  --second-address-color: rgba(255, 255, 255, 0.6);
 }
 body {
   font-family: 'roboto', Arial, Helvetica, sans-serif;
@@ -188,7 +188,7 @@ body {
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
-  color: var(--);
+  color: var(--second-address-color);
 }
 
 /* --------------PORTFOLIO --------------*/
